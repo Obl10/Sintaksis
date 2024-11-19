@@ -1,1 +1,1 @@
-# samizdat
+# Sintaksis
